@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "19900081117",
+    "project_id": "lab-test-43b8b",
+    "storage_bucket": "lab-test-43b8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19900081117:android:3db56d4a9e6635ee294c34",
+        "android_client_info": {
+          "package_name": "com.example.flutter_ecommerce_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-nEur2SVRzUXLyZmlYgsPSRWibDPgaz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19900081117:android:1f4c1ea5a026d1f5294c34",
+        "android_client_info": {
+          "package_name": "com.example.lab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-nEur2SVRzUXLyZmlYgsPSRWibDPgaz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
